@@ -1,0 +1,14 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\IdealsTest.Core.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\IdealsTest.Core.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\obj\Debug\IdealsTest.Core.csprojAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\obj\Debug\IdealsTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\obj\Debug\IdealsTest.Core.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\obj\Debug\IdealsTest.Core.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\DAL.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\DAL.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\obj\Debug\IdealsTest.Core.csproj.CopyComplete
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\AutoMapper.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\AutoMapper.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\IdealsTest.Core\bin\Debug\AutoMapper.xml

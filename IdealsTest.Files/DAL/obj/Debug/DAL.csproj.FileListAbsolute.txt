@@ -1,0 +1,13 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\DAL.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\DAL.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\IdealsTest.Files\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
